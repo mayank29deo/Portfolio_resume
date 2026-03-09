@@ -5,7 +5,7 @@ export default function Education() {
   return (
     <section id="education" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
-        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">// education</p>
+        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">{"// education"}</p>
         <h2 className="section-title">Academic Background</h2>
         <p className="section-sub">Building a strong foundation at every step.</p>
         <div className="grid md:grid-cols-3 gap-5">

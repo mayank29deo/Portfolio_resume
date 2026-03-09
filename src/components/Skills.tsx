@@ -21,7 +21,7 @@ export default function Skills() {
   return (
     <section id="skills" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
-        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">// technical skills</p>
+        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">{"// technical skills"}</p>
         <h2 className="section-title">What I Work With</h2>
         <p className="section-sub">Technologies and tools I use to build and analyze.</p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">

@@ -26,7 +26,7 @@ export default function Contact() {
   return (
     <section id="contact" className="py-24 px-6">
       <div className="max-w-3xl mx-auto text-center">
-        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">// contact</p>
+        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">{"// contact"}</p>
         <h2 className="section-title">Let&apos;s Work Together</h2>
         <p className="text-slate-400 text-base mb-12 leading-relaxed">
           I&apos;m actively looking for internships, full-time roles, and exciting projects.

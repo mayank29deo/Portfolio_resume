@@ -5,7 +5,7 @@ export default function Achievements() {
   return (
     <section id="achievements" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
-        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">// achievements</p>
+        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">{"// achievements"}</p>
         <h2 className="section-title">Milestones & Recognition</h2>
         <p className="section-sub">Highlights from my academic and professional journey.</p>
         <div className="grid md:grid-cols-3 gap-6">

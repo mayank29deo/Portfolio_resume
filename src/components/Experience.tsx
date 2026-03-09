@@ -11,7 +11,7 @@ export default function Experience() {
   return (
     <section id="experience" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
-        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">// work experience</p>
+        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">{"// work experience"}</p>
         <h2 className="section-title">Where I&apos;ve Worked</h2>
         <p className="section-sub">Real-world roles that shaped my engineering and analytical thinking.</p>
         <div className="relative">

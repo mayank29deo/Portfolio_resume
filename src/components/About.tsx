@@ -7,7 +7,7 @@ export default function About() {
       <div className="max-w-6xl mx-auto">
         <div className="grid md:grid-cols-2 gap-16 items-center">
           <div>
-            <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">// about me</p>
+            <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">{"// about me"}</p>
             <h2 className="section-title">Who Am I?</h2>
             <p className="section-sub">Engineering student. Builder. Data nerd.</p>
             <p className="text-slate-400 leading-relaxed mb-6">{personal.bio}</p>

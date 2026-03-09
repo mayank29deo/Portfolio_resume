@@ -11,7 +11,7 @@ export default function Projects() {
   return (
     <section id="projects" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
-        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">// projects</p>
+        <p className="text-cyan-400 font-mono text-xs tracking-widest uppercase mb-3">{"// projects"}</p>
         <h2 className="section-title">Things I&apos;ve Built</h2>
         <p className="section-sub">A selection of projects across web, data, and hardware.</p>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
